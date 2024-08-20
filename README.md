@@ -1,3 +1,12 @@
+test with Postman
+![image](https://github.com/user-attachments/assets/91016279-2be1-4f71-a5a1-b7c288122cd2)
+
+
+
+
+
+
+
 emplate for a Laravel 10.0 + SCSS + Boostrap 5.x
 Template to generate a new standard and simple project using Laravel 10.x, Bootstrap 5.x and SCSS (SASS with SCSS Syntax).
 
